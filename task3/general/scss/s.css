@@ -1,0 +1,29 @@
+main {
+  padding-top: 3%;
+}
+
+main .container .row {
+  padding-top: 5%;
+}
+
+main .container .row .col-lg-3 .card {
+  text-align: center;
+}
+
+main .container .row .col-lg-3 .card h4 {
+  font-weight: 400;
+}
+
+main .container .row .col-lg-3 .card p {
+  font-weight: bolder;
+  color: green;
+}
+
+main .container .row .col-lg-3 .card i {
+  color: #ffbb00;
+}
+
+main .container .row .col-lg-3 .card img {
+  width: 100%;
+}
+/*# sourceMappingURL=s.css.map */
